@@ -194,6 +194,8 @@ header .container,
   align-items: center;
   margin-bottom: 120px;
   padding: 188px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-heading {
